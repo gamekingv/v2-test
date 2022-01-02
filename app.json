@@ -1,0 +1,14 @@
+{
+    "name": "V2",
+    "description": "Deploy V2 on Heroku.",
+    "keywords": ["V2"],
+    "env": {
+        "UUID": {
+            "description": "V2 UUID",
+            "value": "2253c699-0cd0-4fe1-9032-6aeaa1b538f2"
+        }
+    },
+    "website": "https://github.com/gamekingv/v2-heroku",
+    "repository": "https://github.com/gamekingv/v2-heroku",
+    "stack": "container"
+}
